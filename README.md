@@ -2,11 +2,11 @@
 Only here
 <!-- coderabbit-ai-generated:v1 -->
 
-<!-- coderabbit-ai-generated-section:v1:d057bd0e6c4eb848b1e0d011367a574d93d3a42cf38b8ca016829303358038ef -->
+<!-- coderabbit-ai-generated-section:v1:09a2df84f481def799e97ca11a1f79a13fdc8f350487a73bdeb2911e16141ba2 -->
 
 ## Placed structure rotation preview
 
-Once `script.lua` is on the repository's `main` branch, run this in a Roblox client environment that supports `loadstring` and `game:HttpGet`:
+Once this repository is public and `script.lua` is on its `main` branch, run this in a Roblox client environment that supports `loadstring` and `game:HttpGet`. Private repositories cannot be fetched anonymously with this URL:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/jacobzick999/Dark-side-lumber/main/script.lua"))()
